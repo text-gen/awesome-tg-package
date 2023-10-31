@@ -1,11 +1,11 @@
 {
-    "packageId": "Put_Package_Id_Here",
-    "name": "Name of your package",
+    "packageId": "awesomechatgpt",
+    "name": "Awesome ChatGPT",
     "version": "0.0.1",
-    "minTextGeneratorVersion": "0.1.0",
-    "description": "The description of the content of this package",
-    "author": "Your name",
-    "tags": "writing, brainstorming",
-    "authorUrl": "Support URL",
-    "repo": "username/repo"
+    "minTextGeneratorVersion": "0.5.7",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "author": "f",
+    "tags": "writing, brainstorming, awesome",
+    "authorUrl": "https://github.com/f/awesome-chatgpt-prompts",
+    "repo": "text-gen/awesome-tg-package"
 }
