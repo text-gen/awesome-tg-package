@@ -1,5 +1,5 @@
 {
-    "packageId": "awesomechatgpt",
+    "packageId": "awesomePrompts",
     "name": "Awesome ChatGPT",
     "version": "0.0.1",
     "minTextGeneratorVersion": "0.5.7",
