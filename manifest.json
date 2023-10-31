@@ -1,6 +1,6 @@
 {
     "packageId": "awesomePrompts",
-    "name": "Awesome ChatGPT",
+    "name": "Awesome Prompts",
     "version": "0.0.1",
     "minTextGeneratorVersion": "0.5.7",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
