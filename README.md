@@ -8,6 +8,5 @@ The ChatGPT model is a large language model trained by OpenAI that is capable of
 In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to add your own prompts to the list, and to use ChatGPT to generate new prompts as well.
 
 
-
 We hope you find these prompts useful and have fun using ChatGPT!
 
